@@ -28,7 +28,7 @@ sudo dnf groupupdate sound-and-video
 
 * Install packages
 ```shell
-sudo dnf install gcc kernel-headers kernel-devel akmod-nvidia xorg-x11-drv-nvidia xorg-x11-drv-nvidia-libs xorg-x11-drv-nvidia-libs.i686
+sudo dnf install gcc kernel-headers kernel-devel akmod-nvidia xorg-x11-drv-nvidia xorg-x11-drv-nvidia-libs xorg-x11-drv-nvidia-libs.i686 xorg-x11-drv-nvidia-power
 
 sudo dnf install xorg-x11-drv-nvidia-cuda # optional
 
